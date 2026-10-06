@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE settings
+.vscode/
+.idea/
+
+# Environment & Secret files (API keys, etc.)
+.env
+.env.local
+.env.*.local
+
+# Dependencies & Build outputs (for when you add packages or bundlers)
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs
+*.log
